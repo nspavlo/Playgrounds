@@ -7,6 +7,26 @@ import System
 
 // 􀊖 [WWDC - State of the Union]
 
+// M1, M1, M1
+// iOS 14
+// -- Widgets written in swift-ui
+// -- App clips
+// -- Privacy cards
+// -- Document tabs in xcode
+// -- Test application responsibility
+// -- Test store-kit
+
+
+// 􀊖 [WWDC - Visually Accessible]
+
+// SF Symbols
+
+
+// 􀊖 [WWDC - Meet widget-kit]
+
+// Glanceable + relevant + personalized
+// Not a mini applications
+
 // --------------------
 
 // API Enhancements
@@ -32,7 +52,7 @@ class ClosureEnhancements {
     }
 }
 
-// Multi-pattern catch clouses
+// Multi-pattern catch closures
 
 do {
     let descriptor: FileDescriptor = try .open("", .init(rawValue: 99))
