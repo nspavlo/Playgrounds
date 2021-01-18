@@ -78,3 +78,5 @@ struct ButtonViewDecorator: ViewDecorator {
 let button = UIButton()
 let decorator = ButtonViewDecorator()
 decorator.decorate(view: button)
+
+// Functional example: https://github.com/pointfreeco/episode-code-samples/blob/main/0003-styling-with-functions/Styling%20with%20Functions.playground/Pages/Complete.xcplaygroundpage/Contents.swift
